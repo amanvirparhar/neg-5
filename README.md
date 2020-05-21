@@ -1,5 +1,5 @@
 # Neg 5
-A Discord bot that reads one-line questions to improve your quiz bowl skills or knowledge in general!
+A Discord bot that reads one-line questions to improve your quiz bowl skills or knowledge in general! URL: https://tinyurl.com/quizbowlbot
 
 Question: Use .q for Neg 5 to ask you a question.
 
