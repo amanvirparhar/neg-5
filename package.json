@@ -12,6 +12,6 @@
     "discord.js": "^12.1.1",
     "fast-levenshtein": "^2.0.6",
     "initials": "^3.0.1",
-    "mongoose": "^5.9.9"
+    "mongoose": "^5.13.15"
   }
 }
